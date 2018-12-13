@@ -4,9 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 aaaaaaaa
 bbbbbbbb
-<<<<<<< HEAD
 cccccccc
 dddddddd
-=======
-eeeeeeee
->>>>>>> dev
+ffffffff
